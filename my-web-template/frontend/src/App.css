@@ -182,3 +182,11 @@
     border-right-color: var(--border);
   }
 }
+
+.love-message {
+  color: red;
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
